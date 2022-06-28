@@ -8,4 +8,4 @@ One of the activities associated with this free cluster is the ability to build 
 
 This sandbox-php repo, written in Python (using the django framework), supports that example (i.e. s2i) for developers that are interested in the Python programming language.
 
-You can learn more here: https://developers.redhat.com/developer-sandbox/get-started]
+You can learn more here: https://developers.redhat.com/developer-sandbox/get-started
